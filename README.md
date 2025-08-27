@@ -49,10 +49,10 @@ Cada solución incluye:
 ## 📊 Progreso de problemas resueltos
 Actualmente llevo un registro de los problemas resueltos:  
 
-| #   | Problema              | Tema    | Dificultad | Lenguaje | Estado |
-|-----|-----------------------|---------|------------|----------|--------|
-| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | Arrays | Easy   | Python   | ✅ |
-| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Graph  | Medium  | Python   | ✅ |
+| #   | Problema                                                               | Tema    | Dificultad | Lenguaje | Estado |
+|------|-----------------------------------------------------------------------|---------|------------|----------|--------|
+| 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                     | Arrays  | Easy       | Python   | ✅    |
+| 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Strings | Easy       | Python   | ✅    |
 
 _(La tabla se irá actualizando conforme avance con más problemas)_  
 
