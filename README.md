@@ -1,9 +1,10 @@
-# 🧩 LeetCode Practice Repository  
+# Leetcode Practice Repository                                                                           
 
-![Progress](https://img.shields.io/badge/Problems%20Solved-2-green)  
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)  
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![C++](https://img.shields.io/badge/C++-17-orange?logo=c%2b%2b)  
-![Last Commit](https://img.shields.io/github/last-commit/ErMonV/leetcode-solutions)  
+
+![Progress](https://img.shields.io/badge/Problems%20Solved-2-green)
+![Last Commit](https://img.shields.io/github/last-commit/ErMonV/leetcode-solutions)
 ![Repo Size](https://img.shields.io/github/repo-size/ErMonV/leetcode-solutions)  
 
 Este repositorio documenta mi práctica en **LeetCode** para reforzar mis habilidades en **estructuras de datos** y **algoritmos**, con el objetivo de mejorar mi preparación para **entrevistas técnicas** y fortalecer mi lógica de resolución de problemas.  
@@ -22,13 +23,13 @@ La organización del repositorio sigue una estructura por temas de algoritmos:
 ```text
 📂 leetcode-practice/
 │── 📂 arrays/
-│ └── 📄 two_sum.py
+│ └── two_sum.py
 │── 📂 dynamic_programming/
-│ └── 📄 climbing_stairs.py
+│ └── climbing_stairs.py
 │── 📂 graphs/
-│ └── 📄 number_of_islands.py
+│ └── number_of_islands.py
 │── 📂 strings/
-│ └── 📄 valid_palindrome.py
+│ └── valid_palindrome.py
 │── 📄 README.md
 ```
 
