@@ -1,4 +1,7 @@
-# Leetcode Practice Repository                                                                           
+<!-- Header with banner -->
+<p align="center">
+  <img src="https://github.com/ErMonV/leetcode-solutions/blob/main/images/Banner-README.jpg" width="100%" alt="Banner">
+</p>                                                                      
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![C++](https://img.shields.io/badge/C++-17-orange?logo=c%2b%2b)  
