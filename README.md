@@ -1,7 +1,7 @@
 <!-- Header with banner -->
 <p align="center">
   <img src="https://github.com/ErMonV/leetcode-solutions/blob/main/images/Banner-README.jpg" width="100%" alt="Banner">
-</p>                                                                      
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![C++](https://img.shields.io/badge/C++-17-orange?logo=c%2b%2b)  
@@ -10,7 +10,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/ErMonV/leetcode-solutions)
 ![Repo Size](https://img.shields.io/github/repo-size/ErMonV/leetcode-solutions)  
 
-This repository documents my practice on **LeetCode** to strengthen my skills in **data structures** and **algorithms**, with the goal of improving my preparation for **technical interviews** and enhancing my problem-solving logic.
+<!--  This repository documents my practice on **LeetCode** to strengthen my skills in **data structures** and **algorithms**, with the goal of improving my preparation for **technical interviews** and enhancing my problem-solving logic. -->
 
 ---
 
