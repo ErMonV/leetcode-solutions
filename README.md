@@ -7,18 +7,19 @@
 ![Last Commit](https://img.shields.io/github/last-commit/ErMonV/leetcode-solutions)
 ![Repo Size](https://img.shields.io/github/repo-size/ErMonV/leetcode-solutions)  
 
-Este repositorio documenta mi práctica en **LeetCode** para reforzar mis habilidades en **estructuras de datos** y **algoritmos**, con el objetivo de mejorar mi preparación para **entrevistas técnicas** y fortalecer mi lógica de resolución de problemas.  
+This repository documents my practice on **LeetCode** to strengthen my skills in **data structures** and **algorithms**, with the goal of improving my preparation for **technical interviews** and enhancing my problem-solving logic.
 
 ---
 
 ## 🛠️ Tecnologías utilizadas
-- **Python 3** (principal lenguaje)  
-- **C++** (para soluciones más orientadas a eficiencia en memoria y tiempo)  
+- **Python 3** (main language)
+- **C++** (for solutions more oriented toward memory and time efficiency)
 
 ---
 
-## 📂 Estructura de carpetas
-La organización del repositorio sigue una estructura por temas de algoritmos:  
+## 📂 Folder Structure
+
+The repository is organized by algorithm topics:
 
 ```text
 📂 leetcode-practice/
@@ -33,34 +34,37 @@ La organización del repositorio sigue una estructura por temas de algoritmos:
 │── 📄 README.md
 ```
 
-
-Cada carpeta contiene problemas relacionados con la categoría correspondiente.  
-
----
-
-## 🎯 Enfoque de las soluciones
-Cada solución incluye:
-1. **Código implementado** (en Python o C++).  
-2. **Explicación de la estrategia** usada (con comentarios en el código o en un `.md` aparte).  
-3. **Análisis de complejidad** en tiempo y espacio (`O(n)`, `O(log n)`, etc.).  
-4. **Posibles mejoras** o alternativas de solución.  
+Each folder contains problems related to the corresponding category.Cada carpeta contiene problemas relacionados con la categoría correspondiente.  
 
 ---
 
-## 📊 Progreso de problemas resueltos
-Actualmente llevo un registro de los problemas resueltos:  
+## 🎯 Solution Approach
 
-| #   | Problema                                                               | Tema    | Dificultad | Lenguaje | Estado |
-|------|-----------------------------------------------------------------------|---------|------------|----------|--------|
-| 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                     | Arrays  | Easy       | Python   | ✅    |
-| 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Strings | Easy       | Python   | ✅    |
+Each solution includes:
 
-_(La tabla se irá actualizando conforme avance con más problemas)_  
+1. **Implemented code** (in Python or C++).
+2. **Explanation of the strategy** used (with comments in the code or in a separate `.md`).
+3. **Time and space complexity analysis** (`O(n)`, `O(log n)`, etc.).
+4. **Possible improvements** or alternative solutions.
 
 ---
 
-## 🚀 Objetivo a futuro
-- Mantener una práctica constante con problemas de diferentes niveles.  
-- Resolver problemas en **Python y C++** para dominar distintos enfoques.  
-- Documentar aprendizajes clave y estrategias que puedan servir para entrevistas.  
-- Alcanzar **100+ problemas resueltos** como meta inicial.  
+## 📊 Progress of Solved Problems
+
+I’m currently keeping track of the solved problems:
+
+| # | Problem                                                               | Topic   | Difficulty | Language | Status |
+| - | --------------------------------------------------------------------- | ------- | ---------- | -------- | ------ |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/)                     | Arrays  | Easy       | Python   | ✅      |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Strings | Easy       | Python   | ✅      |
+
+*(The table will be updated as I solve more problems)*
+
+---
+
+## 🚀 Future Goals
+
+* Maintain consistent practice with problems of different levels.
+* Solve problems in **Python and C++** to master different approaches.
+* Document key learnings and strategies that could be useful for interviews.
+* Reach **100+ solved problems** as an initial milestone. 
