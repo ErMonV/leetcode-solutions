@@ -81,15 +81,16 @@ def twoSum(nums, target):
 ## 📊 Flow Diagram
 
 ```mermaid
-graph TD
-    A[Start: nums, target] --> B[Create empty dictionary]
-    B --> C[Iterate over nums with index i]
-    C --> D[Calculate complement: target - nums[i]]
-    D --> E{Complement in dictionary?}
-    E -- Yes --> F[Return [dictionary[complement], i]]
-    E -- No --> G[Store nums[i]: i in dictionary]
-    G --> C
-    F --> H[End]
+flowchart TD
+  A([Start]) --> B[Create empty map]
+  B --> C[For each i in nums]
+  C --> D[comp = target - nums_i]
+  D --> E{comp in map}
+  E -->|Yes| F[Return indices: map_comp and i]
+  E -->|No| G[Put nums_i -> i]
+  G --> C
+  F --> H([End])
+
 ```
 
 ## 🔍 Detailed Explanation
@@ -224,15 +225,15 @@ def twoSum(nums, target):
 ## 📊 Diagrama de Flujo
 
 ```mermaid
-graph TD
-    A[Inicio: nums, target] --> B[Crear diccionario vacío]
-    B --> C[Iterar sobre nums con índice i]
-    C --> D[Calcular complemento: target - nums[i]]
-    D --> E{¿Complemento en diccionario?}
-    E -- Sí --> F[Devolver [diccionario[complemento], i]]
-    E -- No --> G[Guardar nums[i]: i en diccionario]
-    G --> C
-    F --> H[Fin]
+flowchart TD
+  A([Inicio]) --> B[Crear diccionario vacío]
+  B --> C[Para cada i en nums]
+  C --> D[comp = target - nums_i]
+  D --> E{comp en diccionario}
+  E -->|Sí| F[Devolver índices: dicc_comp e i]
+  E -->|No| G[Guardar nums_i -> i]
+  G --> C
+  F --> H([Fin])
 ```
 
 ## 🔍 Explicación Detallada
