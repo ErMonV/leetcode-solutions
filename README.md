@@ -56,11 +56,12 @@ Each solution includes:
 
 I’m currently keeping track of the solved problems:
 
-| # | Problem                                                               | Topic   | Difficulty | Language | Status  |
-| - | --------------------------------------------------------------------- | ------- | ---------- | -------- | ------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/)                     | Arrays  | Easy       | Python   | ✅      |
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Strings | Easy       | Python   | ✅      |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)   | Strings | Easy       | Python   | ✅      |
+| #  | Problem                                                                         | Topic   | Difficulty | Language | Status  |
+| -- | ------------------------------------------------------------------------------- | ------- | ---------- | -------- | ------- |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                               | Arrays  | Easy       | Python   | ✅      |
+| 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)           | Strings | Easy       | Python   | ✅      |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)             | Strings | Easy       | Python   | ✅      |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)   | Strings | Easy       | Python   | ✅      |
 
 *(The table will be updated as I solve more problems)*
 
