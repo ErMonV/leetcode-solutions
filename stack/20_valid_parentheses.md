@@ -36,6 +36,10 @@ Spanish version:
 - [🚀 Implementación Final](#-implementación-final)
 - [✅ Conclusión](#-conclusión)
 
+---
+
+# ENGLISH VERSION
+
 ## 📋 Problem Description
 **Link:** https://leetcode.com/problems/valid-parentheses/
 
@@ -292,6 +296,8 @@ The **Valid Parentheses problem** is excellent for understanding:
 **Recommended approach:** Stack-based solution for its optimal time complexity, clarity, and robustness.
 
 ---
+
+# VERSION EN ESPAÑOL
 
 ## 📋 Descripción del Problema
 **Enlace:** https://leetcode.com/problems/valid-parentheses/

@@ -36,6 +36,10 @@ Spanish version:
 - [🚀 Implementación Final](#-implementación-final)
 - [✅ Conclusión](#-conclusión)
 
+---
+
+# ENGLISH VERSION
+
 ## 📋 Problem Description
 **Link:** https://leetcode.com/problems/roman-to-integer/
 
@@ -258,6 +262,8 @@ The **Roman to Integer problem** is excellent for understanding:
 - Roman numeral rules follow consistent patterns that can be algorithmically captured
 
 ---
+
+# VERSION EN ESPAÑOL
 
 ## 📋 Descripción del Problema
 **Enlace:** https://leetcode.com/problems/roman-to-integer/

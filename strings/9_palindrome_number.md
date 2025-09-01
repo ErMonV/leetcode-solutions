@@ -34,6 +34,10 @@ Spanish version:
 - [🚀 Implementación Final](#-implementación-final)
 - [✅ Conclusión](#-conclusión)
 
+---
+
+# ENGLISH VERSION
+
 ## 📋 Problem Description
 **Link:** https://leetcode.com/problems/palindrome-number/
 
@@ -188,6 +192,8 @@ The **palindrome number problem** teaches important concepts:
 - Always test edge cases thoroughly
 
 ---
+
+# VERSION EN ESPAÑOL
 
 ## 📋 Descripción del Problema
 **Enlace:** https://leetcode.com/problems/palindrome-number/

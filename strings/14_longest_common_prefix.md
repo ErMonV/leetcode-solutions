@@ -38,6 +38,10 @@ Spanish version:
 - [🚀 Implementación Final](#-implementación-final)
 - [✅ Conclusión](#-conclusión)
 
+---
+
+# ENGLISH VERSION
+
 ## 📋 Problem Description
 **Link:** https://leetcode.com/problems/longest-common-prefix/
 
@@ -294,6 +298,8 @@ The **Longest Common Prefix problem** is excellent for understanding:
 **Recommended approach:** Vertical Scanning for its efficiency, simplicity, and early termination capabilities.
 
 ---
+
+# VERSION EN ESPAÑOL
 
 ## 📋 Descripción del Problema
 **Enlace:** https://leetcode.com/problems/longest-common-prefix/

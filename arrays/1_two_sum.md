@@ -36,6 +36,10 @@ Spanish version:
 - [🚀 Implementación Final](#-implementación-final)
 - [✅ Conclusión](#-conclusión)
 
+---
+
+# ENGLISH VERSION
+
 ## 📋 Problem Description
 **Link:** https://leetcode.com/problems/two-sum/
 
@@ -179,6 +183,8 @@ The **two sum problem** is fundamental for understanding:
 - Always consider edge cases during implementation
 
 ---
+
+# VERSION EN ESPAÑOL
 
 ## 📋 Descripción del Problema
 **Enlace:** https://leetcode.com/problems/two-sum/
