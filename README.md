@@ -27,13 +27,13 @@ The repository is organized by algorithm topics:
 ```text
 📂 leetcode-solutions/
 │── 📂 arrays/
-│ └── two_sum.py
+│ └── 1_two_sum.py
 │── 📂 dynamic_programming/
-│ └── climbing_stairs.py
+│ └── 70_climbing_stairs.py
 │── 📂 graphs/
-│ └── number_of_islands.py
+│ └── 200_number_of_islands.py
 │── 📂 strings/
-│ └── valid_palindrome.py
+│ └── 9_palindrome_number.py
 │── 📄 README.md
 ```
 
@@ -62,6 +62,7 @@ I’m currently keeping track of the solved problems:
 | 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)           | Strings | Easy       | Python   | ✅      |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)             | Strings | Easy       | Python   | ✅      |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)   | Strings | Easy       | Python   | ✅      |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)           | Stack   | Easy       | Python   | ✅      |
 
 *(The table will be updated as I solve more problems)*
 
