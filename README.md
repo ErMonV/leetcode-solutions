@@ -25,7 +25,7 @@
 The repository is organized by algorithm topics:
 
 ```text
-📂 leetcode-practice/
+📂 leetcode-solutions/
 │── 📂 arrays/
 │ └── two_sum.py
 │── 📂 dynamic_programming/
