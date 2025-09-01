@@ -28,6 +28,6 @@ class Solution(object):
 
         for i in range(len(nums)):
             complement = target - nums[i]
-            if(complement in nums_dict):
+            if complement in nums_dict:
                 return [nums_dict[complement], i]
             nums_dict[nums[i]] = i

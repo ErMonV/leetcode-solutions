@@ -36,7 +36,7 @@ class Solution(object):
         n = len(strs)
         
         for i in range(len(strs[0])):
-            if(strs[0][i] == strs[n-1][i]):
+            if strs[0][i] == strs[n-1][i]:
                 prefix += strs[0][i]
             else:
                 break

@@ -44,7 +44,7 @@ class Solution(object):
 
         for symbol in s[::-1]:
             value = roman_to_integer[symbol]
-            if(value >= prev_value):
+            if value >= prev_value:
                 total += value
             else:
                 total -= value
