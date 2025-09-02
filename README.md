@@ -63,6 +63,7 @@ I’m currently keeping track of the solved problems:
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)             | Strings, Hash Table | Easy       | Python   | ✅      |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)   | Strings, Arrays     | Easy       | Python   | ✅      |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)           | Strings, Stack      | Easy       | Python   | ✅      |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Linked Lists        | Easy       | Python   | ✅      |
 
 *(The table will be updated as I solve more problems)*
 
